@@ -2,9 +2,7 @@
 title: "Practical Machine Learning - Prediction Assignment"
 author: "Alexander Baker"
 date: '2018-01-06'
-output:
-md_document:
-    variant: markdown_github
+output: md_document
 ---
 
 ## Introduction
